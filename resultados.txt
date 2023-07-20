@@ -1,0 +1,197 @@
+ESTADO 573621356135
+./connect4 1 573621356135
+Initial state: 573621356135
+WINNER: MCTS 2 O
+Time: 2.84637 seconds
+
+./connect4 2 573621356135
+
+Initial state: 573621356135
+WINNER: MCTS X
+Time: 31.2041 seconds
+
+./connect4 3 573621356135
+—-----------------
+
+./connect4 4 573621356135
+Initial state: 573621356135
+WINNER: MINIMAX X
+Time: 0.0800171 seconds
+
+./connect4 5 573621356135
+Initial state: 573621356135
+WINNER: MINIMAX 1 X
+Time: 0.0524868 seconds
+
+ESTADO  62424321556564475316176223
+ ./connect4 1 62424321556564475316176223
+Initial state: 62424321556564475316176223
+DRAW
+Time: 3.56304 seconds
+
+./connect4 2 62424321556564475316176223
+Initial state: 62424321556564475316176223
+WINNER: MCTS X
+Time: 31.346 seconds
+
+./connect4 3 62424321556564475316176223
+Initial state: 62424321556564475316176223
+WINNER: MINIMAX O
+Time: 30.4038 seconds
+
+./connect4 4 62424321556564475316176223
+Initial state: 62424321556564475316176223
+WINNER: MINIMAX X
+Time: 42.7277 seconds
+
+ ./connect4 5 62424321556564475316176223
+Initial state: 62424321556564475316176223
+WINNER: MINIMAX 1 X
+Time: 52.9532 seconds
+
+
+ESTADO NUEVO 3
+./connect4 1 2213455412641157123667
+Initial state: 2213455412641157123667
+WINNER: MCTS 2 O
+Time: 1.25443 seconds
+
+./connect4 2 2213455412641157123667
+Initial state: 
+PLAYER's Turn 
+Please enter the column number: 4
+PLAYER's Turn 
+Please enter the column number: 7
+Initial state: 2213455412641157123667
+WINNER: MCTS X
+Time: 5.57759 seconds
+
+./connect4 3 2213455412641157123667
+
+Initial state: 2213455412641157123667
+WINNER: MINIMAX O
+Time: 0.373343 seconds
+
+./connect4 4 2213455412641157123667
+Initial state: 
+PLAYER's Turn 
+Please enter the column number: 4
+PLAYER's Turn 
+Please enter the column number: 7
+PLAYER's Turn 
+Please enter the column number: 2
+Initial state: 2213455412641157123667
+WINNER: PLAYER O
+Time: 5.3385 seconds
+
+./connect4 5 2213455412641157123667
+Initial state: 2213455412641157123667
+WINNER: MINIMAX 2 O
+Time: 0.19679 seconds
+
+ESTADO 3313455412641157123667
+./connect4 1 3313455412641157123667
+Initial state: 3313455412641157123667
+WINNER: MCTS 2 O
+Time: 0.34132 seconds
+./connect4 2 3313455412641157123667
+Initial state: 
+
+PLAYER's Turn 
+Please enter the column number: 5
+PLAYER's Turn 
+Please enter the column number: 4
+PLAYER's Turn 
+Please enter the column number: 2
+PLAYER's Turn 
+Please enter the column number: 1
+Initial state: 3313455412641157123667
+WINNER: MCTS X
+Time: 11.4205 seconds
+
+./connect4 3 3313455412641157123667
+
+Initial state: 3313455412641157123667
+WINNER: MINIMAX O
+Time: 1.63722 seconds
+
+./connect4 4 3313455412641157123667
+PLAYER's Turn 
+Please enter the column number: 5
+Initial state: 3313455412641157123667
+WINNER: PLAYER O
+Time: 2.9441 seconds
+
+./connect4 5 3313455412641157123667
+Initial state: 3313455412641157123667
+WINNER: MINIMAX 2 O
+Time: 1.48509 seconds
+
+ESTADO 7225753343413131154411
+
+./connect4 1 7225753343413131154411
+
+Initial state: 7225753343413131154411
+WINNER: MCTS 2 O
+Time: 4.73674 seconds
+
+./connect4 2 7225753343413131154411
+PLAYER's Turn 
+Please enter the column number: 5
+PLAYER's Turn 
+Please enter the column number: 6
+PLAYER's Turn 
+Please enter the column number: 2
+PLAYER's Turn 
+Please enter the column number: 7
+PLAYER's Turn 
+Please enter the column number: 6
+PLAYER's Turn 
+Please enter the column number: 4
+PLAYER's Turn 
+Please enter the column number: 6
+PLAYER's Turn 
+Please enter the column number: 7
+PLAYER's Turn 
+Please enter the column number: 4
+Initial state: 7225753343413131154411
+WINNER: MCTS X
+Time: 54.4157 seconds
+
+ ./connect4 3 7225753343413131154411
+Initial state: 
+
+Initial state: 7225753343413131154411
+WINNER: MINIMAX O
+Time: 18.648 seconds
+
+/connect4 4 7225753343413131154411
+PLAYER's Turn 
+Please enter the column number: 5
+PLAYER's Turn 
+Please enter the column number: 6
+PLAYER's Turn 
+Please enter the column number: 2
+PLAYER's Turn 
+Please enter the column number: 7
+PLAYER's Turn 
+Please enter the column number: 6
+PLAYER's Turn 
+Please enter the column number: 4
+Full column, please enter a different number: 6
+PLAYER's Turn 
+Please enter the column number: 2
+Initial state: 7225753343413131154411
+WINNER: MINIMAX X
+Time: 154.844 seconds
+
+./connect4 5 7225753343413131154411
+Initial state: 7225753343413131154411
+WINNER: MINIMAX 1 X
+Time: 513.09 seconds
+
+
+
+
+
+
